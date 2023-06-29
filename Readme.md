@@ -6,11 +6,13 @@
 - Import SQL file
 - Run http://localhost/jobsite
 
-	email: employer_one@gmail.com
-	pw: employer
-	
-	email: jobseeker@gmail.com
-	pw: jobseeker
+  Employer
+  email: employer_one@gmail.com
+  pw: employer
+
+  Jobseeker
+  email: jobseeker@gmail.com
+  pw: jobseeker
 
 Admin url: http://localhost/jobsite/admin
 
