@@ -4,6 +4,7 @@
 - Move the project to /opt/lampp/htdocs
 - Create a database named `jobboard`
 - Import SQL file
+- Run http://localhost/jobsite
 
 	email: employer_one@gmail.com
 	pw: employer
@@ -13,5 +14,5 @@
 
 Admin url: http://localhost/jobsite/admin
 
-	admin: admin@mail.com
-	admin
+	email: admin@mail.com
+	pw: admin
