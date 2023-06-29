@@ -1,0 +1,23 @@
+Install Java
+Install Android SDK
+
+Reskin sprites 
+	project_name>assets>textures>images
+Change splash logo or so.. 
+	project_name>assets>materials
+Change the name of company 
+	settings>players settings>company name
+Change the name of the game (version code also)
+	settings>players settings>product name
+Change icon game 
+	settings>player settings>default icon>select
+Change sounds 
+	project_name>assets>sounds
+Package name 
+	build settings>players settings>android>other settings>identification>package name
+Version code and name 
+	settings>players settings>android>other settings>identification> version* & bundle version code
+Build and export
+keystore? `How to create keystore for Unity?`
+	build>settings>publishing settings>keystore (Android studio uses .jks(java keystore))
+Ads? `Where should we add the interstitial id and banner`
